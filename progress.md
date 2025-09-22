@@ -34,3 +34,17 @@ Day 05 (Sept 19, 2025):
 - Studied linear scalability & shared nothing architecture → add CPUs to handle more TPS without bottlenecks.
 - Explored process pairs & checkpointing → primary ↔ backup sync, failover detection → promotion → recovery.
 - Working and following along with the Udmey course
+
+Day 06 (Sept 20, 2025) – COBOL Basics
+- Learned COBOL structure: IDENTIFICATION, DATA, PROCEDURE divisions.
+- Understood WORKING-STORAGE vs LOCAL-STORAGE.
+- Practiced first addition program (ACCEPT, DISPLAY, ADD).
+- Learned comments (* in column 7 or *> inline).
+- Discovered COBOL is not case sensitive.
+
+Day 07 (Sept 21, 2025) – Picture Clauses & Data Types
+- Explored PICTURE clause (PIC) in detail.
+- 9(n) → numeric, X(n) → alphanumeric, A(n) → alphabetic.
+- Special symbols: S for sign, V for implied decimal, P for scaling, Z/$/, for formatting.
+- Learned output formatting: $ZZ,ZZ9 prints “$ 1,234” instead of “01234”.
+- Practiced declaring signed/unsigned numbers and formatting for reports.
