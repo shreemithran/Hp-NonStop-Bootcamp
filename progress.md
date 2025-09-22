@@ -27,3 +27,10 @@ Day 04 (Sept 18, 2025):
 - Reviewed system layers: hardware → Guardian OS → Enscribe → TMF → Pathway → Apps.
 - Learned key terms: High Availability (99.999%), Disaster Recovery, Parallel Processing.
 - Began an Udmey Cobol course and did introduction and setup
+
+Day 05 (Sept 19, 2025):
+- Learned HP NonStop architecture layers: Hardware → Guardian/OSS OS → Enscribe/SQL DB → TMF → Middleware (Pathway) → Applications (COBOL/C).
+- Understood fault tolerance & high availability (99.999%) → no single point of failure, ~5 min downtime/year.
+- Studied linear scalability & shared nothing architecture → add CPUs to handle more TPS without bottlenecks.
+- Explored process pairs & checkpointing → primary ↔ backup sync, failover detection → promotion → recovery.
+- Working and following along with the Udmey course
